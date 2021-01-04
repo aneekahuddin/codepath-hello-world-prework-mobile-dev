@@ -1,14 +1,12 @@
 # codepath-hello-world-prework-mobile-dev
 
-## NAME_OF_YOUR_APP_HERE
+## Hello World using Android Studio
 
 ### App Description
-`TODO://` This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile Product Development course.
+This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile Product Development course.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="prework animation.gif" width=200><br>
 
 
 
